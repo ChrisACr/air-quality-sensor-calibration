@@ -35,15 +35,15 @@ R with the following packages:
 
 ## Project Structure
 
-air-quality-sensor-calibration/
-├── code/
-│   └── sensor-calibration.R
-├── data/
-│   └── README.md
-├── plots/
-├── report/
-│   └── report.pdf
-└── README.md
+    air-quality-sensor-calibration/
+    ├── code/
+    │   └── sensor-calibration.R   # full analysis pipeline
+    ├── data/
+    │   └── README.md              # download instructions
+    ├── plots/                     # exported visualizations
+    ├── report/
+    │   └── report.pdf             # full project report
+    └── README.md
 
 ## Methods
 
