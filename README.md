@@ -37,12 +37,12 @@ R with the following packages:
 
 air-quality-sensor-calibration/
 ├── code/
-│   └── sensor-calibration.R   # full analysis pipeline
+│   └── sensor-calibration.R
 ├── data/
-│   └── README.md              # download instructions
-├── plots/                     # exported visualizations
+│   └── README.md
+├── plots/
 ├── report/
-│   └── report.pdf             # full project report
+│   └── report.pdf
 └── README.md
 
 ## Methods
